@@ -1,4 +1,4 @@
-Name: Sykam Vamsi Krishna Company: CODTECH IT SOLUTIONS Intern ID:CT08DS312  Domain:Python Programming  Mentor: Neela Santhosh Kumar Duration:December 5th, 2024 - January 5th, 202
+Name: Sykam Vamsi Krishna Company: CODTECH IT SOLUTIONS Intern ID:CT08DS312  Domain:Python Programming  Mentor: Neela Santhosh Kumar Duration:December 5th, 2024 - January 5th, 2025
 Overview
 The Simple Calculator project is a Python program designed to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. The calculator also includes advanced mathematical functions such as square, square root, sine, cosine, tangent, logarithms, factorial, and more.
 This program is intended to allow users to perform a wide range of calculations interactively via the command line.
